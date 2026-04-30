@@ -1,4 +1,4 @@
-// B1 - University Set
+// B1 -set6
 // Question 3: Social Media User Profile System
 
 // 1. Create database (auto-created when used)
